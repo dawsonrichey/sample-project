@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <div className="App-content">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>This is your first app on Stormkit.</p>
+          <p>This is my first app on Stormkit.</p>
           <div className="App-links">
             <a
               className="App-link"
@@ -20,7 +20,7 @@ function App() {
             </a>{" "}
             |{" "}
             <a
-              href="https://github.com/stormkit-dev/sample-project"
+              href="https://github.com/dawsonrichey/sample-project"
               target="_blank"
               rel="noopener noreferrer"
               className="App-link"
