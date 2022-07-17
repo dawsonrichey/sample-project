@@ -31,18 +31,18 @@ function App() {
         </div>
         <div className="App-social">
           <a
-            href="https://twitter.com/stormkitio"
+            href="#"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <i className="fab fa-twitter" />
+            <i className="fas fa-codpen" />
           </a>
           <a
-            href="https://www.youtube.com/channel/UC6C_-UuAiIWlGOIokT03lRQ"
+            href="#"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <i className="fab fa-youtube" />
+            <i className="fas fa-database" />
           </a>
         </div>
       </header>
